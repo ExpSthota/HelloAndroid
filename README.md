@@ -1,2 +1,2 @@
 # HelloAndroid
-My first Android App
+Figuring out Git hub -pull request and commits
